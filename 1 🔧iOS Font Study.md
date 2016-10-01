@@ -83,16 +83,16 @@ from wiki: [wiki/X字高](https://zh.wikipedia.org/wiki/X字高)
 
 #### **leading(CGFloat):** 
 
-![leading](https://github.com/YueJun1991/Notes/blob/master/images/font-study/lineHeight-wiki.png)
+![leading](https://github.com/YueJun1991/Notes/blob/master/images/font-study/lineHeight-wiki.png?raw=true)
 
 from wiki: [wiki/行距](https://zh.wikipedia.org/wiki/行距) 
 
 在字體排印學，行距（Leading）指代字體連續行的基線間的距離。這個詞起源於手工排版的年代，鉛字之間通過插入鉛塊來增加垂直距離。這個術語仍然被應用於如 QuarkXPress、Adobe InDesign 等現代化的版面設計軟件。 
 在以消費者爲導向的文字排版軟件中，這個概念通常指的是“line spacing”或“interline spacing”。 
 
-from jianshu: [iOS 行距全攻略](http://www.jianshu.com/p/50b3d434cbc0 ) 
+from jianshu: [iOS 行距全攻略](http://www.jianshu.com/p/50b3d434cbc0) 
 
-![leading-jianshu](https://github.com/YueJun1991/Notes/blob/master/images/font-study/lineHeight-jianshu.png)
+![leading-jianshu](https://github.com/YueJun1991/Notes/blob/master/images/font-study/lineHeight-jianshu.png?raw=true)
 
 在 iOS 方面，需要調整 NSMutableParagraphStyle 中的 lineSpacing 才能進行設定。 
 
